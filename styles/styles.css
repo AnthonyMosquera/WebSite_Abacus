@@ -352,7 +352,7 @@ h4 {
 
 .main-banner {
   display    : flex;
-  background-image: url("/images/slider_01.jpg");
+  background-image: url("images/slider_01.jpg");
 }
 
 @media screen and (min-width: 1024px) {
